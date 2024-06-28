@@ -1,5 +1,11 @@
 # Data Analytics Presentation
 
+### Tools I Used
+
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+
+
 This repository contains my Data Analytics PowerPoint presentation. The presentation covers various aspects of data analytics, including:
 
 - Data Collection
