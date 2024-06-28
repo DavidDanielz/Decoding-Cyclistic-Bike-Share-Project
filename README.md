@@ -8,7 +8,7 @@ This repository contains my Data Analytics PowerPoint presentation. The presenta
 - Statistical Analysis
 - Conclusions and Recommendations
 
-You can view the presentation [here](./your-presentation-file.pdf).
+You can view the presentation [here](./Decoding%20Cyclistic%20Bike-Share%20Project.pdf).
 
 ## Overview
 
